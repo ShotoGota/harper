@@ -60844,7 +60844,7 @@ var XD = (e, t) => {
     );
   },
   $D = `badrmoonlight2@gmail.com`,
-  eO = `https://wa.me/1462816015`,
+  eO = `https://wa.me/14642816015`,
   tO = `https://t.me/harper0419`,
   rO = `https://github.com/newstable`,
   iO = [`AI & Full Stack Engineer`, `Reverse Engineer`],
