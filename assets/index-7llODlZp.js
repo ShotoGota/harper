@@ -11562,7 +11562,7 @@ var Wn = o((e) => {
               (0, W.jsx)(`div`, { className: `ring ring-3` }),
               r && (0, W.jsx)(`div`, { className: `ring final-ring` }),
               (0, W.jsx)(`img`, {
-                src: `/images/logo.png`,
+                src: `/images/MYPIC.jpg`,
                 alt: `Harper Logo`,
                 className: `loader-logo`,
                 style: { borderRadius: `50%` },
@@ -16664,7 +16664,7 @@ var fc = {
                     children: (0, W.jsx)(`span`, {
                       className: `text-sky-200`,
                       children: (0, W.jsx)(`img`, {
-                        src: `/images/logo.png`,
+                        src: `/images/MYPIC.jpg`,
                         alt: `logo`,
                         height: 80,
                         width: 80,
@@ -63935,7 +63935,7 @@ var Ij = [
                       className: Fj.imageWrapper,
                       children: [
                         (0, W.jsx)(`img`, {
-                          src: `/images/MYPIC.jpg`,
+                          src: `/images/MYPIC.png`,
                           alt: `Harper Engineer`,
                         }),
                         (0, W.jsx)(`div`, {
